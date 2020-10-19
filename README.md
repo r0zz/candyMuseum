@@ -12,6 +12,6 @@ Museum Of Candy is a highly responsive and scalable website with modern minimali
  ![Web Browser View (Large)](fullView1.PNG)
  
  ### Mobile View
- Designed with Fixed and Collapsable Navigation Bar when scaled to smaller size.
+ Designed with Fixed and Collapsable Navigation Bar when scaled to smaller a size window.
  ![Mobile View](mobileView.PNG)
  ![Mobile View](mobileView2.PNG)
